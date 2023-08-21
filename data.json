@@ -1,1 +1,93 @@
-[{"id":2,"title":"Fitness Pro Smartwatch","description":"A smartwatch with heart rate monitoring, fitness tracking, and message notifications.","price":149.9,"category":"Technology","image":"https://example.com/images/smartwatch.jpg","quantity":78,"rating":{"rate":4.5,"count":63}},{"id":77,"title":"Set of 12 Acrylic Paints","description":"A set of 12 acrylic paints for artwork and creative projects.","price":34.75,"category":"Art and Craft","image":"https://example.com/images/acrylic-paints.jpg","quantity":30,"rating":{"rate":4.8,"count":28}},{"id":4,"title":"AirFlex Sports Shoes","description":"Advanced sports shoes with AirFlex technology for maximum comfort.","price":199,"category":"Sports and Fitness","image":"https://example.com/images/sports-shoes.jpg","quantity":45,"rating":{"rate":4.6,"count":39}},{"id":6,"title":"Set of 12 Acrylic Paints","description":"A set of 12 acrylic paints for artwork and creative projects.","price":34.75,"category":"Art and Craft","image":"https://example.com/images/acrylic-paints.jpg","quantity":30,"rating":{"rate":4.8,"count":28}},{"id":6,"title":"Set of 12 Acrylic Paints","description":"A set of 12 acrylic paints for artwork and creative projects.","price":34.75,"category":"Art and Craft","image":"https://example.com/images/acrylic-paints.jpg","quantity":30,"rating":{"rate":4.8,"count":28}},{"id":7,"title":"Set of 12 Acrylic Paints","description":"A set of 12 acrylic paints for artwork and creative projects.","price":34.75,"category":"Art and Craft","image":"https://example.com/images/acrylic-paints.jpg","quantity":30,"rating":{"rate":4.8,"count":28}},{"id":7,"title":"Set of 12 Acrylic Paints","description":"A set of 12 acrylic paints for artwork and creative projects.","price":34.75,"category":"Art and Craft","image":"https://example.com/images/acrylic-paints.jpg","quantity":30,"rating":{"rate":4.8,"count":28}},{"id":66,"title":"Set of 12 Acrylic Paints","description":"A set of 12 acrylic paints for artwork and creative projects.","price":34.75,"category":"Art and Craft","image":"https://example.com/images/acrylic-paints.jpg","quantity":30,"rating":{"rate":4.8,"count":28}}]
+[
+	{
+		"id": 2,
+		"title": "Fitness Pro Smartwatch",
+		"description": "A smartwatch with heart rate monitoring, fitness tracking, and message notifications.",
+		"price": 149.9,
+		"category": "Technology",
+		"image": "https://example.com/images/smartwatch.jpg",
+		"quantity": 78,
+		"rating": { "rate": 4.5, "count": 63 }
+	},
+	{
+		"id": 8,
+		"title": "Set of 12 Acrylic Paints",
+		"description": "A set of 12 acrylic paints for artwork and creative projects.",
+		"price": 34.75,
+		"category": "Art and Craft",
+		"image": "https://example.com/images/acrylic-paints.jpg",
+		"quantity": 30,
+		"rating": { "rate": 4.8, "count": 28 }
+	},
+	{
+		"id": 4,
+		"title": "AirFlex Sports Shoes",
+		"description": "Advanced sports shoes with AirFlex technology for maximum comfort.",
+		"price": 199,
+		"category": "Sports and Fitness",
+		"image": "https://example.com/images/sports-shoes.jpg",
+		"quantity": 45,
+		"rating": { "rate": 4.6, "count": 39 }
+	},
+	{
+		"id": 6,
+		"title": "Set of 12 Acrylic Paints",
+		"description": "A set of 12 acrylic paints for artwork and creative projects.",
+		"price": 34.75,
+		"category": "Art and Craft",
+		"image": "https://example.com/images/acrylic-paints.jpg",
+		"quantity": 30,
+		"rating": { "rate": 4.8, "count": 28 }
+	},
+	{
+		"id": 6,
+		"title": "Set of 12 Acrylic Paints",
+		"description": "A set of 12 acrylic paints for artwork and creative projects.",
+		"price": 34.75,
+		"category": "Art and Craft",
+		"image": "https://example.com/images/acrylic-paints.jpg",
+		"quantity": 30,
+		"rating": { "rate": 4.8, "count": 28 }
+	},
+	{
+		"id": 7,
+		"title": "Set of 12 Acrylic Paints",
+		"description": "A set of 12 acrylic paints for artwork and creative projects.",
+		"price": 34.75,
+		"category": "Art and Craft",
+		"image": "https://example.com/images/acrylic-paints.jpg",
+		"quantity": 30,
+		"rating": { "rate": 4.8, "count": 28 }
+	},
+	{
+		"id": 7,
+		"title": "Set of 12 Acrylic Paints",
+		"description": "A set of 12 acrylic paints for artwork and creative projects.",
+		"price": 34.75,
+		"category": "Art and Craft",
+		"image": "https://example.com/images/acrylic-paints.jpg",
+		"quantity": 30,
+		"rating": { "rate": 4.8, "count": 28 }
+	},
+	{
+		"id": 8,
+		"title": "Set of 12 Acrylic Paints",
+		"description": "A set of 12 acrylic paints for artwork and creative projects.",
+		"price": 34.75,
+		"category": "Art and Craft",
+		"image": "https://example.com/images/acrylic-paints.jpg",
+		"quantity": 30,
+		"rating": { "rate": 4.8, "count": 28 }
+	},
+	{
+		"id": 8,
+		"title": "Set of 12 Acrylic Paints",
+		"description": "A set of 12 acrylic paints for artwork and creative projects.",
+		"price": 34.75,
+		"category": "Art and Craft",
+		"image": "https://example.com/images/acrylic-paints.jpg",
+		"quantity": 30,
+		"rating": { "rate": 4.8, "count": 28 }
+	}
+]
+  

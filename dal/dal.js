@@ -25,15 +25,13 @@ const updateItem = (id, newP) => {
 
 const deleteItem = async (id) => {
 	const products = await getProduct();
-    console.log(products.length);
-    products.forEach((element) => {
-        if (element.id === +id) {
-            products.splice(element, 1);
-        }
-    });
-    console.log(products.length);
-    
-     await jsonfile.writeFile("./data.json", products);
+	products.forEach((element) => {
+		if (element.id === +id) {
+			products.splice(element, 1);
+		}
+	});
+
+	await jsonfile.writeFile("./data.json", products);
 };
 
 module.exports = { getProduct, addProduct, updateItem, deleteItem };
